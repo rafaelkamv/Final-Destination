@@ -11,3 +11,12 @@ Creator:
 
 Contributors:
 * (maybe you could be the first)
+
+
+
+
+# How to Contribute
+
+Fore Information on how to Contribute
+
+You can refer to [This Page](https://github.com/rafaelkamv/Final-Destinaton/wiki/Items#how-add-a-new-custom-texture)
