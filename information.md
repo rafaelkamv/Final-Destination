@@ -19,4 +19,4 @@ Contributors:
 
 For Information on how to Contribute
 
-You can refer to [This Page](https://github.com/rafaelkamv/Final-Destinaton/wiki/Items#how-add-a-new-custom-texture)
+You can refer to [This Page](https://rafaelkamv.github.io/Final-Destinaton/items.html)
