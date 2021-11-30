@@ -17,6 +17,6 @@ Contributors:
 
 # How to Contribute
 
-Fore Information on how to Contribute
+For Information on how to Contribute
 
 You can refer to [This Page](https://github.com/rafaelkamv/Final-Destinaton/wiki/Items#how-add-a-new-custom-texture)
