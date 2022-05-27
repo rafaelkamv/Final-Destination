@@ -19,4 +19,4 @@ Contributors:
 
 For Information on how to Contribute
 
-You can refer to [This Page](https://rafaelkamv.github.io/Final-Destinaton/items.html)
+You can refer to [This Page](https://rafaelkamv.github.io/Final-Destination/items.html)
